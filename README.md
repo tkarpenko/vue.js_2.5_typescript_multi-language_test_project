@@ -12,7 +12,7 @@
 #### 1. Install the project
 ```
 npm install -g @vue/cli
-git clone git@github.com:tkarpenko/vue.js_2.5_typescript_multi-language_test_project.git
+git clone https://github.com/tkarpenko/vue.js_2.5_typescript_multi-language_test_project.git
 cd vue.js_2.5_typescript_multi-language_test_project
 npm i
 ```
