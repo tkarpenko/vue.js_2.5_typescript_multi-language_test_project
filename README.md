@@ -1,4 +1,3 @@
-# vue.js_2.5_typescript_multi-language_test_project
 # Test Project
 
 ### Project Created with using:
@@ -10,7 +9,7 @@
 
 ### Steps to fire up the project localy:
 
-#### 1. Install project
+#### 1. Install the project
 ```
 npm install -g @vue/cli
 git clone git@github.com:tkarpenko/vue.js_2.5_typescript_multi-language_test_project.git
@@ -30,7 +29,7 @@ vue ui
 
 or
 #### 3. Serve a build folder
-Run the local server (for instance, http-server) in a dist folder where a builded project is
+Run the local server (for instance, http-server) in a dist folder, where a builded project is
 ```
 npm install -g http-server
 cd dist

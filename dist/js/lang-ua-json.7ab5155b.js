@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lang-ua-json"],{"82ef":function(e){e.exports={users:"Користувачі",addUser:"Додати користувача",english:"Англійська",ukrainian:"Українська",language:"Мова",search:"Пошук",editUser:"Редагувати",removeUser:"Видалити",id:"Код",firstName:"Ім'я",lastName:"Прізвище",email:"Адреса",saveChanges:"Зберегти зміни"}}}]);
+//# sourceMappingURL=lang-ua-json.7ab5155b.js.map
