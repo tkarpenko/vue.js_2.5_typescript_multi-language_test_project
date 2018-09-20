@@ -1,13 +1,13 @@
 # Test Project
 
-### Project Created with using:
+### The project is created with using:
 
 ##### 1. Vue.js 2.5
 ##### 1. Vue CLI 3
 ##### 2. TypeScript
 ##### 4. Scss
 
-### Steps to fire up the project localy:
+### Steps to fire up the project locally:
 
 #### 1. Install the project
 ```
