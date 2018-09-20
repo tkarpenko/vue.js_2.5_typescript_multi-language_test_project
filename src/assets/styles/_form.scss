@@ -1,0 +1,52 @@
+$font-color: #919191;
+
+.app-form {
+    .form-field {
+        margin-bottom: 10px;
+        position: relative;
+    }
+    input,
+    textarea {
+        display: block;
+        height: 49px;
+        width: 100%;
+        color: #000;
+        text-align: left;
+        border: 1px solid #e8e8e8;
+        border-radius: 3px;
+        padding: 14px 10px;
+        font-size: 100%;
+        line-height: 1.4;
+    }
+    textarea {
+        max-width: 100%;
+        min-width: 100%;
+        min-height: 49px;
+    }
+    ::-webkit-input-placeholder {
+        color: $font-color;
+    }
+    :-moz-placeholder {
+        color: $font-color;
+    }
+    ::-moz-placeholder {
+        color: $font-color;
+    }
+    :-ms-input-placeholder {
+        color: $font-color;
+    }
+    .form-field-errors {
+        display: none;
+        color: #e20a43;
+        font-size: 80%;
+        text-align: left;
+        font-weight: 400;
+        line-height: 1.2;
+        margin-top: 8px;
+    }
+    .form-field.error {
+        .form-field-errors {
+            display: block;
+        }
+    }
+}

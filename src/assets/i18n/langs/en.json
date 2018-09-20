@@ -1,0 +1,15 @@
+{
+    "users": "Users",
+    "addUser": "Add New User",
+    "english": "English",
+    "ukrainian": "Ukrainian",
+    "language": "Language",
+    "search": "Search",
+    "editUser": "Edit User's Info",
+    "removeUser": "Delete User's Info",
+    "id": "ID",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "E-mail",
+    "saveChanges": "Save Changes"
+}

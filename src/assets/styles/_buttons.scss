@@ -1,0 +1,14 @@
+.app-btn {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    min-width: 40px;
+    white-space: nowrap;
+    position: relative;
+    border-radius: 3px;
+    padding: 0 10px;
+    &.black {
+        background-color: #000;
+        color: #fff;
+    }
+}

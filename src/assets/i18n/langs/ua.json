@@ -1,0 +1,15 @@
+{
+    "users": "Користувачі",
+    "addUser": "Додати користувача",
+    "english": "Англійська",
+    "ukrainian": "Українська",
+    "language": "Мова",
+    "search": "Пошук",
+    "editUser": "Редагувати",
+    "removeUser": "Видалити",
+    "id": "Код",
+    "firstName": "Ім'я",
+    "lastName": "Прізвище",
+    "email": "Адреса",
+    "saveChanges": "Зберегти зміни"
+}
